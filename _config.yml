@@ -25,13 +25,26 @@ github_username:  caseymorris61
 markdown: kramdown
 #theme: minima
 remote_theme: "mmistakes/minimal-mistakes@4.16.6"
+
+# Plugins (previously gems:)
 plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
   - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
   - jekyll-include-cache
 
 minimal_mistakes_skin: "air"
-
-include: ["_posts"]
 
 # Site Author
 author:

@@ -15,18 +15,84 @@
 # in the templates via {{ site.myvariable }}.
 title: Casey Morris
 email: caseymorris61@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Casey Morris - Software Engineer Project Home
+description: "Casey Morris - Software Engineer Project Home"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+url: "https://caseymorris61.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: realQuadsCasey
 github_username:  caseymorris61
 
 # Build settings
 markdown: kramdown
-theme: minima
+#theme: minima
+remote_theme: "mmistakes/minimal-mistakes@4.16.6"
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
+
+minimal_mistakes_skin: "air"
+
+include: ["_posts"]
+
+# Site Author
+author:
+  name             : "Your Name"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I am an **amazing** person."
+  location         : "Somewhere"
+  email            :
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      # url: mailto:your.name@email.com
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://your-website.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url: "https://facebook.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      # url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url: "https://instagram.com/"
+
+# Site Author
+author:
+  name             : *name # *name is a YAML reference pointing to the &anchor earlier
+  avatar           : "/assets/images/profile.jpg"
+  bio              : "30% done with 47 projects"
+  location         : "Memphis, TN"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "https://instagram.com/mmistakes"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/caseymorris61"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/realQuadsCasey"
+    
+    
+
+# Site Footer
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/mmistakes"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/mmistakes"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/mmistakes"
+      
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

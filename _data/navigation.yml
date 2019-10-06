@@ -1,7 +1,5 @@
 main:
   - title: "Resume"
-    url: /
+    url: "/docs/resume.pdf"
   - title: "Projects"
-    url: /
-  - title: "Ramblings"
-    url: /
+    url: "/about.md"

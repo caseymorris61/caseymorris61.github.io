@@ -59,12 +59,12 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/caseymorris61"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/realQuadsCasey"
     - label: "LinkedIn"
-      icon: "<i class='fab fa-fw fa-linkedin'></i>"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/casey-morris-96105346/"
+    - label: "Resume"
+      icon: "fas fa-download"
+      url:  "/docs/resume.pdf"
     
     
 
@@ -80,6 +80,7 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/casey-morris-96105346/"
+
       
 
 

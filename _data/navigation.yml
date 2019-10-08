@@ -2,4 +2,4 @@ main:
   - title: "Resume"
     url: "/docs/resume.pdf"
   - title: "Projects"
-    url: "/"
+    url: "/projects.html"

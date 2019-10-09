@@ -23,7 +23,7 @@ github_username:  caseymorris61
 
 # Build settings
 markdown: kramdown
-#theme: minima
+#theme: "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes@4.16.6"
 
 # Plugins (previously gems:)

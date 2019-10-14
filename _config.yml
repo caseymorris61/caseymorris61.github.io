@@ -49,7 +49,7 @@ minimal_mistakes_skin: "default"
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "/assets/images/profile.jpg"
+  avatar           : "/assets/images/casey-profile.jpg"
   bio              : "30% done with 47 projects"
   location         : "Memphis, TN"
   links:

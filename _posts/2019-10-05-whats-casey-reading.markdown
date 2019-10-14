@@ -4,6 +4,7 @@ title:  "What's Casey Reading?"
 date:   2019-10-05 16:07:12 +0000
 categories: jekyll update
 author_profile: true
+tags: personal
 ---
 
 One of my hobbies is reading. I like all different types of books: biographies, historical non-fiction, fantasy novels, crime/law novels, business books, etc. When I start a book, I generally dont stop until I finish it. I may go weeks without reading a book, but then finish a few in 2 or 3 weeks. Was this considered the original form of binging?

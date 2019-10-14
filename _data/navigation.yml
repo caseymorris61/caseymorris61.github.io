@@ -3,3 +3,5 @@ main:
     url: "/docs/resume.pdf"
   - title: "Projects"
     url: "/projects.html"
+  - title: "Ramblings"
+    url: "/personal.html"

@@ -4,6 +4,7 @@ title:  "Sewer Exploring Robot!"
 date:   2019-10-04 16:07:12 +0000
 categories: jekyll update
 author_profile: true
+tags: project
 ---
 
 In this post, I describe our senior design project: the sewer exploring robot! We presented this in the senior design showcase in May of 2014, and were awarded 1st place in the competition! This is how it came together...

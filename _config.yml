@@ -21,6 +21,8 @@ url: "https://caseymorris61.github.io" # the base hostname & protocol for your s
 twitter_username: realQuadsCasey
 github_username:  caseymorris61
 
+permalink:        /blog/:year/:month/:day/:title/
+
 # Build settings
 markdown: kramdown
 #theme: "minimal-mistakes-jekyll"

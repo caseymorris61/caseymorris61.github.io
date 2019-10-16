@@ -2,6 +2,6 @@ main:
   - title: "Resume"
     url: "/docs/resume.pdf"
   - title: "Projects"
-    url: "/projects.html"
+    url: "/projects"
   - title: "Ramblings"
-    url: "/personal.html"
+    url: "/ramblings"

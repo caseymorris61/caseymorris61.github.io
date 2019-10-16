@@ -7,9 +7,14 @@ author_profile: true
 tags: personal
 ---
 
-Growing up, I was lucky to have no shortage of homecooked meals and desserts at my disposal. All family gatherings were potlucks and the options were always good. This tradition (or habit) was definitely a result of my Grandma Kate and her experiencing cooking for a family of 10 children. The specialty in my family was undoubtedly desserts; the 27 page cookbook we compiled of my grandma's recipes was 22 pages of desserts!
+Growing up, I was lucky to have no shortage of homecooked meals and desserts at my disposal. All family gatherings were potlucks and the options were always good. This tradition (or habit) was definitely a result of my Grandma Kate and her experience cooking for a family of 10 children. The specialty in my family was undoubtedly desserts; the 27 page cookbook we compiled of my grandma's recipes was 22 pages of desserts!
 
-It was not until I moved away to Madison for grad school that I really appreciated all of the great food I had growing up (mostly because this was the first time I had to cook everyday on my own). I decided I wanted to learn to cook and since have been slowly adding more and more dishes to my arsenal. The dessert skills were definitely genetic (my best and most requested dishes are desserts), I have also found a few other top favorites. Below are some of the recipes of my favorite dishes to make. Let me know if you have any other recommendations!
+It was not until I moved away to Madison for grad school that I really appreciated all of the great food I had growing up (mostly because this was the first time I had to cook everyday on my own). I decided I wanted to learn to cook and since have been slowly adding more and more dishes to my arsenal. The dessert skills were definitely genetic (my best and most requested dishes are desserts), but I have also found a few other top favorites. Below are some of the recipes of my favorite dishes to make. Let me know if you have any other recommendations!
+
+### RECIPES
+ - [Scotcheroos](#scotcheroos)
+ - [Apple Crisp](#apple-crisp)
+ - [Pizza](#homemade-emilios-pizza)
 
 ## SCOTCHEROOS
 
@@ -65,5 +70,24 @@ For the crust:
  3. Bake at 425 until crust is golden brown, 30-45 minutes
  4. Serve with ice cream
 
+## HOMEMADE EMILIO'S PIZZA
+![Pizza](/assets/images/pizza_baked.jpg){:height="420px" width="560px"} 
 
+Interestingly, growing up in Central Ohio, I had no shortage of terrific pizza options. When people think of cities associated with pizza, its generally Chicago or New York. While not as popular or well known, Central Ohio can certainly holds its own with those other cities. Pizza is so popular that my hometown had roughly 1 pizza parlor per 1000 residents! However, when it comes to picking the best, there is an undisputed winner: [Emilio's](http://www.emelioscatering.com/restaurant).
+
+Emilio's was a favorite of my father growing up, a trait also passed down to me. It is the pepperoni that sets them far above the rest of pizza options in the area. After decades of searching, asking, begging the owners for the brand of pepperoni, my dad recently was able to buy the pepperoni in bulk directly from the restaurant! Armed with their pepperoni, we were finally able to make the best homemade pizza.
+
+### Ingredients
+ 1. Martha White Thin & Crispy Pizza Crust
+ 2. Prego Pizza Sauce 
+ 3. Kraft Italian Shredded Cheese
+ 4. Lots and Lots of Pepperoni from Emilios (or a similar thick small pepperoni)
+
+### Directions
+The directions for making the pizza are spelled out on the directions of the Marth White pizza crust. Some helpful tips:
+ 1. Place a pizza stone in the oven while it preheats. Once the crust is initially baked in a different pan, after adding topics to the crust, move the pizza to finish baking on the warm pizza crust.
+ 2. Use enough sauce to cover entire crust, I use about 1/3 of the jar, roughly 4 or 5 large spoonfuls
+ 3. Don't be shy with the cheese
+ 4. Finally, top cheese with the pepperoni, covering every square inch of available space. See image below for idea of how to top the pizza.  
+![Pizza Prep](/assets/images/pizza_prep.jpg){:height="262px" width="350px"} 
 

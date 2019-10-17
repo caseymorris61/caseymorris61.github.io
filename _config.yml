@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Casey T. Morris
-email: caseymorris61@gmail.com
+email: casey@caseytmorris.com
 description: "Casey Morris - Software Engineer Project Home"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://caseymorris61.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -57,7 +57,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:caseymorris61@gmail.com"
+      url: "mailto:casey@caseytmorris.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/caseymorris61"
@@ -75,7 +75,7 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:caseymorris61@gmail.com"
+      url: "mailto:casey@caseytmorris.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/caseymorris61"

@@ -47,5 +47,8 @@ As exciting as I can be about the tech behind the photobooth, it would be all fo
 ## Results
 In all, the photobooth went off without a hitch at our wedding! I have a terrific wife who let me run wild on this project which left her free to worry about all of the other details! Our guests enjoyed the photobooth and we had a lot of great photos! I was excited when I saw some of these posted on social media! One of my friends asked to use it at his wedding a few months later! Here are some of my favorites!
 
-![booth1](/assets/images/photoboothresult1.jpg){:height="350px" width="350px"} ![booth2](/assets/images/photoboothresult2.jpg){:height="350px" width="350px"} 
-![booth3](/assets/images/photoboothresult3.jpg){:height="350px" width="350px"} ![booth4](/assets/images/photoboothresult4.jpg){:height="350px" width="350px"}
+![booth1](/assets/images/photoboothresult1.jpg){:height="350px" width="350px"}  
+
+![booth2](/assets/images/photoboothresult2.jpg){:height="350px" width="350px"}  
+
+![booth3](/assets/images/photoboothresult3.jpg){:height="350px" width="350px"}

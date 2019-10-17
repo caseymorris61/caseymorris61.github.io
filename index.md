@@ -20,14 +20,14 @@ feature_row:
   - image_path: /assets/images/photoboothresult1.jpg
     alt: "photobooth"
     title: "Wedding PhotoBooth"
-    excerpt: "RPi based photobooth for weddings (2 and counting), controlled via text"
+    excerpt: "RPi based photobooth for weddings/parties, controlled via text and custom Flask API"
     url: "/blog/2019/10/07/photo-booth/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/camera_proto.jpg
     alt: "backup cam"
     title: "RPi Backup Camera"
-    excerpt: "Retrofit any car with a reverse camera using a raspberry pi and mobile phone"
+    excerpt: "Retrofit any car with a reverse camera using a Raspberry Pi and mobile phone"
     url: "/projects"
     btn_class: "btn--primary"
     btn_label: "Learn more" 

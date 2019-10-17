@@ -7,12 +7,12 @@ author_profile: true
 tags: project
 ---
 
-This post details the DIY photobooth I created using a RaspberryPi and debuted up at my wedding! It has been contracted for one other wedding as of this writing. I found the development and testing of this project was the best part of the wedding planning!
+This post details the DIY photobooth I created featuring a RaspberryPi and was debuted at my wedding! It has been contracted for one other wedding as of this writing. I found the development and testing of this project was the best part of the wedding planning!
 
 ## Design Overview
 Photobooths at weddings/parties started to become trendy as far as I was aware around 2016. When I first looked into the cost of renting one of these, I was shocked that they could cost between $500 and $1000! Like any engineer, I decided this was ridiculous and I could make one for far less money.
 
-The raspberry pi and camera module were a logical choice for a custom photobooth at a low cost. The biggest question for me was "What was the best way to take the picture?" and "How should the guests get a copy of picture?." After a few iterations using a remote, Amazon Echo, among other things, below is the final result I implemented.
+The raspberry pi and camera module were a logical choice for a custom photobooth at a low cost. The biggest questions for me were "What was the best way to take the picture?" and "How should the guests get a copy of picture?." After a few iterations using a remote trigger, and an Amazon Echo, among other things, below is the final result I implemented.
 
 ![Overview](/assets/images/photobooth_overview.png)
 
@@ -36,8 +36,15 @@ This project was built using Python 2. On a clean install of RPi Raspbian OS. In
  - [PyDrive](https://pythonhosted.org/PyDrive/)
  - [Twilio](https://www.twilio.com/docs/sms/quickstart/python) 
 
+
 ## Source Code
 The python flask app can be found [here](https://github.com/caseymorris61/rpi_photobooth). These can be placed in a folder on the desktop of the RPi, and a link to the bash script on the desktop to easily launch the flask app with just a WiFi mouse.
+
+## Networking
+One of the biggest challenges that I had for a while was determining how to easily expose the webserver running locally on the Pi to the outside so the Twilio services could access it. For a while during testing, I used `ngrok` to open the http port on the pi and expose it at a randomly generate URL. However, the downside of this was the URL would change every time I ran it, so I would have to keep updating the Twilio webhook. For testing this was okay, but I wanted a more robust solution so that set up was a simple as possible on the wedding day and could be set up by someone other than me.
+
+### PiTunnel
+Luckily, a few months before the wedding, I learned of [PiTunnel](https://www.pitunnel.com). This promised a way to open a remote tunnel to the HTTP port at a static URL (based on my account name). I only had to configure the service on the Pi, and add some lines to the `/etc/init.rc` script to open the tunnel on boot, so everytime I turned on the photobooth, the HTTP port was exposed to the URL expected by Twilio! Setup of the photobooth was now a breeze!
 
 ## Photobooth Display
 As exciting as I can be about the tech behind the photobooth, it would be all for naught if it wasn't presented in a nice and pleasing enclosure. Instead of just using the boring LCD monitor with bezel, I recruited my cousin to build a beautiful wood frame. Placed around the monitor, the screen looks like a picture in a picture frame. The RPi case with the camera sits above the top of the monitor, connected to the monitor via HDMI. She also made a bunch of props for guests to pose with in pictures! Our venue provided a background drape and some overhead lights, and we had a photobooth!

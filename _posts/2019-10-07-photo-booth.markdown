@@ -7,16 +7,16 @@ author_profile: true
 tags: project
 ---
 
-This post details the DIY photobooth I created using a RaspberryPi 3B and set up at my wedding, and one other wedding so far. I found the development and testing of this project was the best part of the wedding planning by far!
+This post details the DIY photobooth I created using a RaspberryPi and debuted up at my wedding! It has been contracted for one other wedding as of this writing. I found the development and testing of this project was the best part of the wedding planning!
 
 ## Design Overview
-Photobooths at weddings/parties started to become trendy as far as I was aware around 2016. When I first looked into the cost of renting one of these, I was shocked that the could cost between $500 and $1000! Like any engineer, I decided this was ridiculous and I could make one for far less money.
+Photobooths at weddings/parties started to become trendy as far as I was aware around 2016. When I first looked into the cost of renting one of these, I was shocked that they could cost between $500 and $1000! Like any engineer, I decided this was ridiculous and I could make one for far less money.
 
-The raspberry pi and camera module were a logical choice for a custom photobooth at a low cost. The biggest question for me was "What was the best way to take the picture? and How should the users get the picture?." After a few iterations using a remote, Amazon Echo, among other things, below is the result I implemented.
+The raspberry pi and camera module were a logical choice for a custom photobooth at a low cost. The biggest question for me was "What was the best way to take the picture?" and "How should the guests get a copy of picture?." After a few iterations using a remote, Amazon Echo, among other things, below is the final result I implemented.
 
 ![Overview](/assets/images/photobooth_overview.png)
 
-To start the photobooth countdown clock, the user texted the word "Snap" to a specific number. I used the Twilio platform to receive these text messages and forward them to the Rasperry Pi hosting a Python Flask application. This python app then was responsible for taking the picture, uploading the photo to a Google Drive, and responding to the user with a text containing the link to the photo. A proof of concept video made during development is shown below.
+To start the photobooth countdown clock, the guest texted the word "Snap" to a specific number. I used the Twilio platform to receive these text messages and forward them to the Rasperry Pi hosting a Python Flask application. This python app then was responsible for taking the picture, uploading the photo to a Google Drive, and responding to the guest with a text containing the link to the photo. A proof of concept video made during development is shown below.
 
 <video width="480" height="320" controls="controls" muted="muted" preload="auto">
   <source src="/assets/videos/photoboothdemo.mp4" type="video/mp4">

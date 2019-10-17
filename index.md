@@ -13,7 +13,7 @@ header:
     - label: "<i class='fab fa-fw fa-linkedin'></i>"
       url: "https://www.linkedin.com/in/casey-morris-96105346/"
     - label: "<i class='fas fa-fw fa-envelope-square'></i>"
-      url: "mailto:caseymorris61@gmail.com"
+      url: "mailto:casey@caseytmorris.com"
 excerpt: >
   Experienced software and electrical engineer with an interest in embedded systems. RPi hobbiest and DIY IoT enthusiast.<br />
 feature_row:

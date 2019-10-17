@@ -15,13 +15,13 @@ header:
     - label: "<i class='fas fa-fw fa-envelope-square'></i>"
       url: "mailto:caseymorris61@gmail.com"
 excerpt: >
-  Experienced Software and Electrical engineer with an interest in embedded systems. RPi hobbiest and DIY IoT enthusiast.<br />
+  Experienced software and electrical engineer with an interest in embedded systems. RPi hobbiest and DIY IoT enthusiast.<br />
 feature_row:
-  - image_path: /assets/images/booth_frame.jpg
+  - image_path: /assets/images/photoboothresult1.jpg
     alt: "photobooth"
     title: "Wedding PhotoBooth"
-    excerpt: "RPi based photobooth for weddings (2 and counting), controlled via text - Twilio"
-    url: "/projects"
+    excerpt: "RPi based photobooth for weddings (2 and counting), controlled via text"
+    url: "/blog/2019/10/07/photo-booth/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/camera_proto.jpg

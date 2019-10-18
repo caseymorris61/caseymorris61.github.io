@@ -1,7 +1,7 @@
 main:
-  - title: "Resume"
-    url: "/docs/resume.pdf"
   - title: "Projects"
     url: "/projects"
-  - title: "Ramblings"
-    url: "/ramblings"
+  - title: "Commentary"
+    url: "/commentary"
+  - title: "Resume"
+    url: "/docs/resume.pdf"

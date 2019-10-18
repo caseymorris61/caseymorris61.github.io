@@ -35,7 +35,7 @@ feature_row:
     alt: "rfid light and lock"
     title: "RFID Lighting & Locking"
     excerpt: "RFID and IR controlled lighting and locking system for personal apartment utilizing simple uC, servo, and relays"
-    url: "/projects"
+    url: "/blog/2019/10/08/rfid-light-lock/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 ---

@@ -7,7 +7,7 @@ author_profile: true
 tags: personal
 ---
 
-Growing up, I was lucky to have no shortage of homecooked meals and desserts at my disposal. All family gatherings were potlucks and the options were always good. This tradition (or habit) was definitely a result of my Grandma Kate and her experience cooking for a family of 10 children. The specialty in my family was undoubtedly desserts; the 27 page cookbook we compiled of my grandma's recipes was 22 pages of desserts!
+Growing up, I was lucky to have no shortage of homecooked meals and desserts at my disposal. All family gatherings were potlucks and the options were always good. This tradition (or habit) was definitely a result of my grandma and her experience cooking for 10 children. The specialty in my family was undoubtedly desserts; the 27 page cookbook we compiled of my grandma's recipes was 22 pages of desserts!
 
 It was not until I moved away to Madison for grad school that I really appreciated all of the great food I had growing up (mostly because this was the first time I had to cook everyday on my own). I decided I wanted to learn to cook and since have been slowly adding more and more dishes to my arsenal. The dessert skills were definitely genetic (my best and most requested dishes are desserts), but I have also found a few other top favorites. Below are some of the recipes of my favorite dishes to make. Let me know if you have any other recommendations!
 
@@ -61,7 +61,7 @@ For the crust:
 ### Directions
 For the core:
  1. Peel, core, and slice apples, spread in glass baking pan
- 2. Cut tablespoon of butter into smal pieces and spread over apples
+ 2. Cut tablespoon of butter into small pieces and spread over apples
  3. Comine cinnamon, nutmeg, and sugar, spread evenly over apples  
 
 For the crust:

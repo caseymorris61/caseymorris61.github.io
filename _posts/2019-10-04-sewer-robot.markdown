@@ -11,7 +11,7 @@ In this post, I describe our senior design project: the sewer exploring robot! W
 
 ## The Ninja TurtlEEs
 
-The 2014 Notre Dame Electrical Engineering class had 39 graduates, and we were able to assemble the best possible team: John O'Brien, Josh Vahala, Justin Yoder (link to LinkedIns). Due to our project based on the idea of a sewer exploring robot, our team was aptly name: The Ninja Turtl**EEs**  
+The 2014 Notre Dame Electrical Engineering class had 39 graduates, and we were able to assemble the best possible team: [John O'Brien](https://www.linkedin.com/in/john-o-a3a046139/), [Josh Vahala](https://www.linkedin.com/in/joshua-vahala-42264199/), [Justin Yoder](https://www.linkedin.com/in/justin-yoder-b1282260/). Due to our project based on the idea of a sewer exploring robot, our team was aptly name: The Ninja Turtl**EEs**  
 ![TeamPhoto](/assets/images/senior_design_team.jpg)
 
 ## Requirements
@@ -19,14 +19,15 @@ Perhaps the most exciting and most useful class during my undergraduate studies 
  - Work in a team of 4 to design an embedded system
  - Must use the PIC32 uC and a serial interface
  - Must incorporate a custom PCB
- - $500 budget for all parts
+ - $500 budget for all parts 
+
 It was up to our team to come up with some sort of project idea and to devise the plan to implement the project. 
 
 ## Problem Description
 
 In the class portion of Senior Design, a representative for the city of South Bend gave a talk describing some of the challenges facing the city and asked for ideas in which our project could be of use. We were 1 of only 2 teams that geared our project to the city's needs, and the idea we came up with was our sewer exploring robot.
 
-The city explained a problem they had with the old infrastructure of their sewer pipes, and these were susceptible to leaking. One particular area where this was an issue was the (name for the water area). Here, the sewer tunnels crossed the St. Joseph's River, and any links had the potential to contaminate the water supply or damage the sewer, or both. To detect a leak, a special dye was placed in the water of the river, and the sewer tunnels were searched for traces of this dye. However, it was a great risk and expense to the city to have human workers lowered into the tunnels to search for the leak. Some sorts of specially designed robots were available for purchase that could roam the tunnels looking for leaks, but they too were too expensive for the cash strapped city.
+The city explained a problem they had with the old infrastructure of their sewer pipes, and these were susceptible to leaking. One particular area where this was an issue was Bowman Creek. Here, the sewer tunnels crossed the tributary of the St. Joseph's River, and any leaks had the potential to contaminate the water supply, damage the sewer, or both. To detect a leak, a special dye was placed in the water of the river, and the sewer tunnels were searched for traces of this dye. However, it was a great risk and expense to the city to have human workers lowered into the tunnels to search for the leak. Some sorts of specially designed robots were available for purchase that could roam the tunnels looking for leaks, but they too were too expensive for the cash strapped city.
 
 This issue was of interest to our team due to both the potential positive impact it could have on the city, and also the variety of different technologies and features the ideal solution would require. The potential project certainly went above and beyond the base requirements for the project, but we were up to the challenge.
 
@@ -45,7 +46,7 @@ We worked with the representative from the city of South Bend to come up with a 
 
 Perhaps the biggest unknown when we started the project was how to handle the wireless communication. We needed a wireless link to be able to send remote control commands to drive the robot. There was discussion as to using WiFi, Zigbee, or Bluetooth, but because we were going to also be streaming video, we decided to go with WiFi.
 
-The uC that we were required to use was a PIC32, which did not have much support for WiFI. While we could have designed a board with a dedicated WiFi module and antenna, this was well out of scope for the project (and even further outside our capabilities). Instead, we decided to include a Raspberry Pi 3 module. This was 2014, before the wifi capability was built in the RPi, though it did have all networking capabilities. Our solution was to add a USB WiFi dongle to the RPi. This allowed the Pi to connect to the ad-hoc WiFi network we created with a router, and then the RPi was connected to our uC via an SPI bus. The RPi was used solely for WiFi communication and video streaming, all other processing, such as motor control, prox sensing, etc. was processed in the PIC, per class requirements
+The uC that we were required to use was a PIC32, which did not have much support for WiFi. While we could have designed a board with a dedicated WiFi module and antenna, this was well out of scope for the project (and even further outside our capabilities). Instead, we decided to include a Raspberry Pi 3 module. This was 2014, before the wifi capability was built in the RPi, though it did have all networking capabilities. Our solution was to add a USB WiFi dongle to the RPi. This allowed the Pi to connect to the ad-hoc WiFi network we created with a router, and then the RPi was connected to our uC via an SPI bus. The RPi was used solely for WiFi communication and video streaming, all other processing, such as motor control, prox sensing, etc. was processed in the PIC, per class requirements.
 
 Thus, the data data flowed as such: from the remote host client (to be discussed) over WiFi to the RPi via a TCP port, then to the PIC via SPI. Data was then sent back to the host from the PIC in the reverse manner.
 
@@ -71,7 +72,7 @@ The entire system was powered by a 12 V battery. We used two standard DC motors 
 
 ### Other Sensors
 
-We were interested in including a couple other sensors on board the robot, namely 1) a proximity sensor and a 2) gyrometer. The prox sensor would be used to alert the robot (and the controller) when the robot was nearing an obstacle. The gyrometer was used to measure the stability of the robot. This information was related to the Linux host so the controller had an idea if the robot was becoming unstable.
+We were interested in including a couple other sensors on board the robot, namely 1) a proximity sensor and a 2) gyrometer. The prox sensor would be used to alert the robot (and the controller) when the robot was nearing an obstacle. The gyrometer was used to measure the stability of the robot. This information was relayed to the Linux host so the controller had an idea if the robot was becoming unstable.
 
 ## Mechanical Difficulties
 
@@ -79,17 +80,19 @@ While the electrical and software challenges were in our area of expertise, the 
 
 In addition to waterproofing, designing a robot body and attaching motors, wheels, etc. was a gigantic challenge. It needed to be secure, but also easy to access the insides for testing and development. Below shows the end result of the body; a boxy, ugly mess of plastic with a hinge. We were happy that aesthetics were not part of the criteria for the prototype!
 
+![Robot Case](/assets/images/robot_case.jpg){:height="300px" width="300px"}
+
 Mounting the axles and wheels to the body was another huge task, and we soon learned that wheel system we implemented was not conducive to turning (no area for the wheel to turn without hitting the body of the robot). This caused some major headaches. Remarkably (and with the help of some mechanical friends and their CNC skills), we were able to put together a serviceable robot!
 
-![Robot Prototype](/assets/image/robot1.jpg)
+![Robot Prototype](/assets/images/robot1.jpg){:height="300px" width="300px"}
 
 ## Live Demo
 
-Once we were able to assemble the robot and had all of the functionality (mostly) working, we arranged for a live demonstration using the sewer tunnels on campus. With the help of a member of the maintenance department, we lowered our robot into the tunnel, turned it on, and voila! Everything worked as expected! We controlled the robot for a couple hundred feet down the tunnel, streamed video back to the host and moved the camera all around to inspect the walls. We saved this video (link here), and were excited to relax until the senior design demo the next afternoon. That was until, however, disaster struck with about 20 hours until the demo....
+Once we were able to assemble the robot and had all of the functionality (mostly) working, we arranged for a live demonstration using the sewer tunnels on campus. With the help of a member of the maintenance department, we lowered our robot into the tunnel, turned it on, and voila! Everything worked as expected! We controlled the robot for a couple hundred feet down the tunnel, streamed video back to the host and moved the camera all around to inspect the walls. We saved this video, and were excited to relax until the senior design demo the next afternoon. That was until, however, disaster struck with about 20 hours until the demo....
 
 ## Disaster
 
-The major design flaw in our design was our motor control. It was not until a year later in my motor design classes in graduate school that I would really understand what was our kryptonite. The main issue though was that we were using those DC motors, which at high frequencies, have a very high impedance. When the motors were off and in a stall state and we applied power to them through the H-Bridge circuit, the instant the power was applied, the motor impedance can cause a giant current spike until eventually the rotor begins to spin. In traditional applications of DC motors, there are "starter capacitors" that are used to slowing (not instantaneous) apply voltage to the stator of the motor until it begins to turn. However, if not designed properly, this giant current spike can cause issues, which we would soon learn.
+The major design flaw in our design was our motor control. It was not until a year later in my motor design classes in graduate school that I would really understand what was our kryptonite. The main issue though was that we were using those DC motors, which at high frequencies, have a very high impedance. When the motors were off and in a stall state and we applied power to them through the H-Bridge circuit, in the instant the power was applied, the motor impedance can cause a giant current spike until eventually the rotor begins to spin. In traditional applications of DC motors, there are "starter capacitors" that are used to slowly (not instantaneously) apply voltage to the stator of the motor until it begins to turn. However, if not designed properly, this giant current spike can cause issues, which we would soon learn.
 
 After our successful demo in the tunnels, we decided we just wanted to fine tune a few things before the big expo the following day. One of the main things we wanted to improve was the turning (which was rough as described before). In the course of testing that afternoon, in the middle of a turn, one of the wheels got stuck, and we happened to stall the motor. This led to a giant current spike, which in turn caused a huge ground noise spike (we had no isolation), and this fried all of our electronics. The H-Bridges legitimately caught fire (just a small flame), and pretty much all of our other electronics on our board were toast. The PIC, fried. The Prox Sensor, fried. The board was unusable. And we had 20 hours until the demo day...
 

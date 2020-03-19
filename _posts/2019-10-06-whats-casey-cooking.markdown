@@ -73,9 +73,9 @@ For the crust:
 ## HOMEMADE EMILIO'S PIZZA
 ![Pizza](/assets/images/pizza_baked.jpg){:height="420px" width="560px"} 
 
-Interestingly, growing up in Central Ohio, I had no shortage of terrific pizza options. When people think of cities associated with pizza, its generally Chicago or New York. While not as popular or well known, Central Ohio can certainly holds its own with those other cities. Pizza is so popular that my hometown had roughly 1 pizza parlor per 1000 residents! However, when it comes to picking the best, there is an undisputed winner: [Emilio's](http://www.emelioscatering.com/restaurant).
+Interestingly, growing up in Central Ohio, I had no shortage of terrific pizza options. When people think of cities associated with pizza, its generally Chicago or New York. While not as popular or well known, Central Ohio can certainly hold its own with those other cities. Pizza is so popular that my hometown had roughly 1 pizza parlor per 1000 residents! However, when it comes to picking the best, there is an undisputed winner: [Emilio's](http://www.emelioscatering.com/restaurant).
 
-Emilio's was a favorite of my father growing up, a trait also passed down to me. It is the pepperoni that sets them far above the rest of pizza options in the area. After decades of searching, asking, begging the owners for the brand of pepperoni, my dad recently was able to buy the pepperoni in bulk directly from the restaurant! Armed with their pepperoni, we were finally able to make the best homemade pizza.
+Emilio's was a favorite of my father growing up, a trait also passed down to me. It is the pepperoni that sets them far above the rest of pizza options in the area. For decades, my dad has been in search of this pepperoni and only recently was able to find an adequate provider. I am not sure where he acquires it, but I get it in 5 lb. ziplock bags! Armed with this pepperoni, we were finally able to make the best homemade pizza.
 
 ### Ingredients
  1. Martha White Thin & Crispy Pizza Crust

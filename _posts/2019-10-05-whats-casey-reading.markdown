@@ -27,11 +27,12 @@ If you have any recommendations for books I may enjoy, please let me know!
  10. *Liar's Poker* - Michael Lewis - I have been a fan of basically all of Michael Lewis's books (and podcasts), especially the business related ones like *The Big Short* and *Flash Boys*. I finally had the chance to read his first book, detailing his time as a bond trader for Salomon Brothers in the late 80s. I enjoyed the ridiculous stories of life on Wall Street as much as I did learning about the bond market in general and the creation of the mortgage bond market.
  11. *A Gentleman In Moscow* - Amor Towles - This novel follows the life of a former Russian Count sentenced to life under house arrest at one of Moscow's most renowned hotels. Towles writing is very entertaining; interweaving the stories with the evolution of Russia, post WWII, through its birth as an industrial power. I find this way of learning history more preferable to the standard textbooks in American classrooms.
  12. *Barbarians at the Gate* - Bryan Burrough & John Heylar - Story of the LBO of RJR Nabisco. A very detailed background of Reynolds Tobacco and Nabisco company, their merger and eventual LBO led by then-CEO Ross Johnson. Similar to *Liar's Poker* in that it details the levels of greed ego on Wall Street in the 1980s and its impact on American businesses.
+ 13. *Billion Dollar Whale* - Bradley Hope & Tom Wright - Story of Malaysian businessman Jho Low who through the use of a few connections and a neverending greed was able to defraud the Malaysian people and government out of billions of dollars. This was a fascinating tale with unbelieveable details about lavishness and spending that consumed Jho Low in his pursuit of money, fame and power.
+ 14. *I Heard You Paint Houses (The Irishman)* - Charles Brandt - The life story of Frank "The Irishman" Sheeran, his upbringing, military service, and introduction to the mafia and the Teamsters union. Interesting insight into the disapperance of Jimmy Hoffa as well as the Kennedy assassination. I found this book much more entertaining than the Netflix movie.
 
 ## Future Books
 Books that are on my radar to read in the future include:
  1. *Midnight in Chernobyl* - Adam Higginbotham 
- 3. *The Millionaire Nextdoor* - Thomas J. Stanley & William D. Danko 
- 4. *Paddy Whacked* - T.J. English
- 5. *I Heard You Paint Houses (The Irishman)* - Charles Brandt
- 6. *The Winds of Winter* - George R.R. Martin (if it is ever released)
+ 2. *The Millionaire Nextdoor* - Thomas J. Stanley & William D. Danko 
+ 3. *Paddy Whacked* - T.J. English
+ 4. *The Winds of Winter* - George R.R. Martin (if it is ever released)

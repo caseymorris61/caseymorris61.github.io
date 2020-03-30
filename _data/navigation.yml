@@ -5,3 +5,5 @@ main:
     url: "/commentary"
   - title: "Resume"
     url: "/docs/resume.pdf"
+  - title: "Research"
+    url: "/blog/2019/09/28/research-publications/"

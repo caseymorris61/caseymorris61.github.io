@@ -38,6 +38,27 @@ feature_row:
     url: "/blog/2019/10/08/rfid-light-lock/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
+  - image_path: /assets/images/SparkDirector_control_cropped.png
+    alt: "SparkDirector"
+    title: "SparkDirector"
+    excerpt: "An Android app to control Orro switches via IFTTT"
+    url: "/blog/2020/04/08/spark-director/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/ArrowsNestLogo.png
+    alt: "ArrowsNest"
+    title: "Arrows Nest Web Dev"
+    excerpt: "Volunteered at GiveCamp Memphis to create the wordpress site for local charity Arrows Nest"
+    url: "/projects"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/kbohome.png
+    alt: "KBOLogo"
+    title: "KBO Fantasy Baseball"
+    excerpt: "Korean fantasy baseball league web app using a Vue frontend with Firebase backend"
+    url: "/projects"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
 ---
 
 {% include feature_row %}

@@ -1,17 +1,13 @@
 ---
 layout: single
-title:  "What's Casey Reading?"
+title:  "Archive: What Has Casey Read?"
 date:   2019-10-05 16:07:12 +0000
 categories: jekyll update
 author_profile: true
 tags: personal
 ---
 
-One of my hobbies is reading. I enjoy all different types of books: biographies, historical non-fiction, fantasy novels, crime/law novels, business books, etc. I may go weeks without reading a book, but then finish a few in 2 or 3 weeks. Was this considered the original form of binging?
-
-I wanted to keep a list of books I have read recently, both to keep a running catalog of books read and my initial impressions and also to motivate myself to keep adding titles to the list. I read almost exclusively on Amazon Kindle Paperwhite. Special thanks to the free e-books available at the public libraries in the past cities I have lived (or have friends): Columbus, Dallas, Menlo Park, and Memphis.
-
-If you have any recommendations for books I may enjoy, please let me know!
+I started keeping track of the books I've read and some initial thoughts in 2019. Here is a running archive of books I've read in previous years.
 
 ## 2019 Books Read
 
@@ -29,10 +25,3 @@ If you have any recommendations for books I may enjoy, please let me know!
  12. *Barbarians at the Gate* - Bryan Burrough & John Heylar - Story of the LBO of RJR Nabisco. A very detailed background of Reynolds Tobacco and Nabisco company, their merger and eventual LBO led by then-CEO Ross Johnson. Similar to *Liar's Poker* in that it details the levels of greed ego on Wall Street in the 1980s and its impact on American businesses.
  13. *Billion Dollar Whale* - Bradley Hope & Tom Wright - Story of Malaysian businessman Jho Low who through the use of a few connections and a neverending greed was able to defraud the Malaysian people and government out of billions of dollars. This was a fascinating tale with unbelieveable details about lavishness and spending that consumed Jho Low in his pursuit of money, fame and power.
  14. *I Heard You Paint Houses (The Irishman)* - Charles Brandt - The life story of Frank "The Irishman" Sheeran, his upbringing, military service, and introduction to the mafia and the Teamsters union. Interesting insight into the disapperance of Jimmy Hoffa as well as the Kennedy assassination. I found this book much more entertaining than the Netflix movie.
-
-## Future Books
-Books that are on my radar to read in the future include:
- 1. *Midnight in Chernobyl* - Adam Higginbotham 
- 2. *The Millionaire Nextdoor* - Thomas J. Stanley & William D. Danko 
- 3. *Paddy Whacked* - T.J. English
- 4. *The Winds of Winter* - George R.R. Martin (if it is ever released)

@@ -1,21 +1,13 @@
 ---
 layout: single
-title:  "What's Casey Reading?"
-date:   2020-10-05 16:07:12 +0000
+title:  "2020 Books Read"
+date:   2020-10-06 16:07:12 +0000
 categories: jekyll update
 author_profile: true
-tags: personal
+tags: books
 ---
 
-One of my hobbies is reading. I enjoy all different types of books: biographies, historical non-fiction, fantasy novels, crime/law novels, business books, etc. I may go weeks without reading a book, but then finish a few in 2 or 3 weeks. Was this considered the original form of binging?
-
-In 2019, I started to keep a list of books I have read recently, both to keep a running catalog of books read and my initial impressions and also to motivate myself to keep adding titles to the list. In 2019 I definitely set my reading record as an adult with 14 books, so hoping to beat that in 2020.
-
-I read almost exclusively on Amazon Kindle Paperwhite. Special thanks to the free e-books available at the public libraries in the past cities I have lived (or have friends): Columbus, Dallas, Menlo Park, and Memphis.
-
-If you have any recommendations for books I may enjoy, please let me know! You can find books I read in previous years [here](/blog/2019/10/05/whats-casey-reading).
-
-## 2020 Books Read
+So far, in 2020, I have been even better about reading, but worse about recording my impressions. Will hopefully update soon!
 
  1. [*One Good Deed*](https://www.goodreads.com/book/show/44016314-one-good-deed) - David Baldacci.
  2. [*Sandy Koufax: A Lefty's Legacy*](https://www.goodreads.com/book/show/653118.Sandy_Koufax) - Jane Leavy.

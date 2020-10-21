@@ -1,15 +1,11 @@
 ---
 layout: single
-title:  "Archive: What Has Casey Read?"
-date:   2019-10-05 16:07:12 +0000
+title:  "2019 Books Read"
+date:   2019-10-06 16:07:12 +0000
 categories: jekyll update
 author_profile: true
-tags: personal
+tags: books
 ---
-
-I started keeping track of the books I've read and some initial thoughts in 2019. Here is a running archive of books I've read in previous years.
-
-## 2019 Books Read
 
  1. *Origin* - Dan Brown. I have been a fan of Dan Brown since I read *Da Vinci Code* and *Angels and Demons* in high school. I find character Robert Langdon enjoyable to follow around, but this book wasn't his best. I did find myself curious how it would end (and it lived up to the expectation of a completely ridiculous ending). Seemed like a lot of unnecessary shots at organized religion, which I didn't really appreciate.
  2. *The Fallen* - David Baldacci. Book 4 in the Amos Decker series, following the life of ex-football player, ex-detective turned FBI consultant and his perfect recall solving high profile murders. I find the writing style enjoyable and the characters interesting. Only complaint is the forced use of football metaphors/football talk that, while accurate, doesn't come off as realistic.

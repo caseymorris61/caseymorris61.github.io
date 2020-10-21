@@ -1,9 +1,11 @@
 main:
   - title: "Projects"
     url: "/projects"
-  - title: "Commentary"
-    url: "/commentary"
   - title: "Resume"
     url: "/docs/resume.pdf"
   - title: "Research"
     url: "/blog/2019/09/28/research-publications/"
+  - title: "Recipes"
+    url: "/recipes"
+  - title: "Books"
+    url: "/books"

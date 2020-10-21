@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "RPi Photobooth"
-date:   2019-10-07 16:07:12 +0000
+date:   2019-10-10 16:07:12 +0000
 categories: jekyll update
 author_profile: true
 tags: project

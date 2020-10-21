@@ -28,21 +28,21 @@ feature_row:
     alt: "backup cam"
     title: "RPi Backup Camera"
     excerpt: "Retrofit any car with a reverse camera using a Raspberry Pi and mobile phone"
-    url: "/projects"
+    url: "/blog/2019/10/31/rpi-backup-camera/"
     btn_class: "btn--primary"
     btn_label: "Learn more" 
+  - image_path: /assets/images/KBO_logo.png
+    alt: "KBOLogo"
+    title: "KBO Fantasy Baseball"
+    excerpt: "Korean fantasy baseball league web app using a Vue frontend with Firebase backend"
+    url: "/blog/2020/05/15/kbo-fantasy-baseball/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
   - image_path: /assets/images/lock_mechanism.jpg
     alt: "rfid light and lock"
     title: "RFID Lighting & Locking"
     excerpt: "RFID and IR controlled lighting and locking system for personal apartment utilizing simple uC, servo, and relays"
     url: "/blog/2019/10/08/rfid-light-lock/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/SparkDirector_control_cropped.png
-    alt: "SparkDirector"
-    title: "SparkDirector"
-    excerpt: "An Android app to control Orro switches via IFTTT"
-    url: "/blog/2020/04/08/spark-director/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/ArrowsNestLogo.png
@@ -52,11 +52,11 @@ feature_row:
     url: "/blog/2020/02/28/givecamp-arrows-nest/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/KBO_logo.png
-    alt: "KBOLogo"
-    title: "KBO Fantasy Baseball"
-    excerpt: "Korean fantasy baseball league web app using a Vue frontend with Firebase backend"
-    url: "/blog/2020/05/15/kbo-fantasy-baseball/"
+  - image_path: /assets/images/SparkDirector_control_cropped.png
+    alt: "SparkDirector"
+    title: "SparkDirector"
+    excerpt: "An Android app to control Orro switches via IFTTT"
+    url: "/blog/2020/04/08/spark-director/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 ---

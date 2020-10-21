@@ -49,14 +49,14 @@ feature_row:
     alt: "ArrowsNest"
     title: "Arrows Nest Web Dev"
     excerpt: "Volunteered at GiveCamp Memphis to create the wordpress site for local charity Arrows Nest"
-    url: "/projects"
+    url: "/blog/2020/02/28/givecamp-arrows-nest/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/kbohome.png
+  - image_path: /assets/images/KBO_logo.png
     alt: "KBOLogo"
     title: "KBO Fantasy Baseball"
     excerpt: "Korean fantasy baseball league web app using a Vue frontend with Firebase backend"
-    url: "/projects"
+    url: "/blog/2020/05/15/kbo-fantasy-baseball/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 ---

@@ -11,11 +11,14 @@ permalink: books
 	<p> In 2019, I started to keep a list of books I have read recently, both to keep a running catalog of books read and my initial impressions and also to motivate myself to keep adding titles to the list. In 2019 I definitely set my reading record as an adult with 14 books, so hoping to beat that in 2020. </p>
 	<p> I read almost exclusively on Amazon Kindle Paperwhite. Special thanks to the free e-books available at the public libraries in the past cities I have lived (or have friends): Columbus, Dallas, Menlo Park, and Memphis. If you have any recommendations for books I may enjoy, please let me know! </p>
 	<p> See the books I've ready by year, as well as my initial impressions! </p>
-  	{% for book in site.books %}
-	  <h2>
-	    <a href="{{ book.url }}">
-	      {{ book.title }}
-	    </a>
-	  </h2>
+
+  	{% assign sortedbooks = site.books | sort: 'date' | reverse %}
+
+	{% for book in sortedbooks %}
+	    <h3>
+	    	<a href="{{ book.url }}">
+		      {{ book.title }}
+		    </a>
+	    </h3>
 	{% endfor %}
 </section>

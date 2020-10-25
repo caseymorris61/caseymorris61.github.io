@@ -9,11 +9,14 @@ permalink: recipes
 <section class="page__content" itemprop="text"> 
 	<p> Growing up, I was lucky to have no shortage of homecooked meals and desserts at my disposal. All family gatherings were potlucks and the options were always good. This tradition (or habit) was definitely a result of my grandma and her experience cooking for 10 children. The specialty in my family was undoubtedly desserts; the 27 page cookbook we compiled of my grandma's recipes was 22 pages of desserts! </p>
 	<p> It was not until I moved away to Madison for grad school that I really appreciated all of the great food I had growing up (mostly because this was the first time I had to cook everyday on my own). I decided I wanted to learn to cook and since have been slowly adding more and more dishes to my arsenal. The dessert skills were definitely genetic (my best and most requested dishes are desserts), but I have also found a few other top favorites. Below are some of the recipes of my favorite dishes to make. Let me know if you have any other recommendations! </p>
-  	{% for recipe in site.recipes %}
-	  <h2>
-	    <a href="{{ recipe.url }}">
-	      {{ recipe.title }}
-	    </a>
-	  </h2>
+
+	{% assign sortedrecipes = site.recipes | sort: 'title' %}
+
+	{% for recipe in sortedrecipes %}
+	    <h3>
+	    	<a href="{{ recipe.url }}">
+		      {{ recipe.title }}
+		    </a>
+	    </h3>
 	{% endfor %}
 </section>

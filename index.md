@@ -15,7 +15,7 @@ header:
     - label: "<i class='fas fa-fw fa-envelope-square'></i>"
       url: "mailto:casey@caseytmorris.com"
 excerpt: >
-  Experienced software and electrical engineer with an interest in embedded systems. RPi hobbiest and DIY IoT enthusiast.<br />
+  Experienced software and electrical engineer with an interest in embedded systems. RPi hobbiest, and DIY IoT enthusiast. Aspiring amateur baker.<br />
 feature_row:
   - image_path: /assets/images/photoboothresult1.jpg
     alt: "photobooth"

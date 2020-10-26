@@ -55,7 +55,7 @@ The full recipe made roughly 30-35 cinnamon rolls, so would be worthwhile to mak
 {: refdef}
 5. Place in baking pan and let dough rise until double in bulk (we did roughly 75 minutes)
 6. Bake at 400F for 12-15 minutes until golden 
-7. Let cool and top with icing of choice. [Brown Sugar Caramel Icing](/recipes/brown-sugar-caramel-icing/) recommended (use 2X the incredients if doing full cinnamon role batch). Enjoy!
+7. Let cool and top with icing of choice. [Brown Sugar Caramel Icing](/recipes/brown-sugar-caramel-icing/) recommended (use 2X the incredients if doing full cinnamon roll batch). Enjoy!
 {:refdef: style="text-align: center;"}
 ![Cinnamon Rolls](/assets/images/cinnamon-rolls-iced.png){:height="350px" width="350px"}
 {: refdef}

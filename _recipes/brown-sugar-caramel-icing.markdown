@@ -24,7 +24,7 @@ This Brown Sugar Caramel Icing, aka Penuche Icing, aka Spice Cake Icing, aka Cin
  3. Bring to boil, and boil for 2 minutes (longer than 2 minutes causes issues later)
  4. Add milk and return to boil (happens very quickly in my experience)
  5. Remove from heat and cool to lukewarm
- 6. Add powdered sugar to cool mixture and beat until thick (ff too think, add a little hot water). Spread on dessert.
+ 6. Add powdered sugar to cool mixture and beat until thick (if too think, add a little hot water). Spread on dessert.
 
 
 

@@ -11,18 +11,18 @@ In an effort to modernize Craig's car, we found a straightforward and simple way
 
 ## Car Modernization
 
-My younger cousin Craig (also an EE and also with a MS in power electronics) moved out to the Bay Area about the same time we did. My wife appreciated having Craig around to work on all of my projects while she was busy with residency. He had an older (2003) BMW that he was interested in modifying to add some new bells and whistles. After playing around with and testing some other ideas, including splicing into the CAN bus and monitoring the messages, we decided a project worth finishing would be a backup camera. I took over the SW/FW for the project, and Craig handled the mechanicals.
+My younger cousin Craig (also an EE and also with a MS in power electronics) moved out to the Bay Area about the same time we did. My wife appreciated having Craig around to keep me company and to work on all of our projects while she was busy with residency. He had an older (2003) BMW that he was interested in modifying to add some new bells and whistles. After playing around with and testing some other ideas, including splicing into the CAN bus and monitoring the messages, we decided a project worth finishing would be a backup camera. I took over the SW/FW for the project, and Craig handled the mechanicals.
 
 ## Raspberry Pi Zero W
 
-For a hobby project requiring a camera, my first thought was Raspberry Pi after my positive experience with the [photobooth](/blog/2019/10/07/photo-booth/) and other projects. The Pi Zero, the miniature version was also a logical option has it is very cheap and has plenty of power to stream video. The first task was to figure out how to power the Pi which was to be placed in the trunk. There were a number of options, such as using a recharable 5V USB portable charger, however, we decided to splice into the car wiring in the truck as described in the image below. 
+For a hobby project requiring a camera, my first thought was Raspberry Pi after my positive experience with the [photobooth](/blog/2019/10/10/photo-booth/) and other projects. The Pi Zero, the miniature version, was also a logical option as it is very cheap and has plenty of power to stream video. The first task was to figure out how to power the Pi which was to be placed in the trunk. There were a number of options, such as using a recharable 5V USB portable charger, however, we decided to splice into the car wiring in the truck as described in the image below. 
 {:refdef: style="text-align: center;"}
 ![power](/assets/images/Camera_power_connections.png){:width="400px" height="200px"}
 {: refdef}
 
 ## Video Streaming
 
-With the RPi needing to be in the trunk so that the camera would be in the traditional area, we needed a solution to stream the video to the user. Naturally, a smart phone mounted on the fan vents would be the ideal destination. It turns out that streaming the raw video from an RPi to a mobile phone was trivial; there are numerous smart phone apps to do this, including [RPi Camera Viewer](https://play.google.com/store/apps/details?id=ca.frozen.rpicameraviewer&hl=en_US). All the app needs is the IP address of the RPi, and it basically ssh's into the switch and opens a port to stream the Raw H.264 video to the smart phone.
+With the RPi needing to be in the trunk so that the camera would be in the traditional area, we needed a solution to stream the video to the user. Naturally, a smart phone mounted on the fan vents would be the ideal destination. It turns out that streaming the raw video from an RPi to a mobile phone was trivial; there are numerous smart phone apps to do this, including [RPi Camera Viewer](https://play.google.com/store/apps/details?id=ca.frozen.rpicameraviewer&hl=en_US). All the app needs is the IP address of the RPi, and it basically ssh's into the Pi and opens a port to stream the Raw H.264 video to the smart phone.
 
 With the mobile phone solution readily available, the only remaining question was how to connect the phone and RPi to the same network in the car. The easiest way to do this was to make the RPi an access point (soft AP mode). This way, the RPi would create a network and the phone would connect to it, allowing the video to stream to the phone, as shown in the figure. 
 {:refdef: style="text-align: center;"}
@@ -48,5 +48,5 @@ The project didn't require much SW/FW in terms of lines of code written, but ins
 {: refdef}
 
 
-2020 Update: Craig sold the car, along with the backup camera! I just hope the included camera increased the resell value and not decrease it!
+2020 Update: Craig sold the car, along with the backup camera! I just hope the included camera increased the resell value!
 

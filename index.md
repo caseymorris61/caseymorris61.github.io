@@ -21,7 +21,7 @@ feature_row:
     alt: "photobooth"
     title: "Wedding PhotoBooth"
     excerpt: "RPi based photobooth for weddings/parties, controlled via text and custom Flask API"
-    url: "/blog/2019/10/07/photo-booth/"
+    url: "/blog/2019/10/10/photo-booth/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/camera_proto.jpg

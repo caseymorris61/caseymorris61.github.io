@@ -84,7 +84,12 @@ footer:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/casey-morris-96105346/"
 
-      
+# Custom Collections
+collections:
+  recipes:
+    output: true
+  books:
+    output: true
 
 
 # Exclude from processing.

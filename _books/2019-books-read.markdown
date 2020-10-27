@@ -1,19 +1,11 @@
 ---
 layout: single
-title:  "What's Casey Reading?"
-date:   2019-10-05 16:07:12 +0000
+title:  "2019 Books Read"
+date:   2019-10-06 16:07:12 +0000
 categories: jekyll update
 author_profile: true
-tags: personal
+tags: books
 ---
-
-One of my hobbies is reading. I enjoy all different types of books: biographies, historical non-fiction, fantasy novels, crime/law novels, business books, etc. I may go weeks without reading a book, but then finish a few in 2 or 3 weeks. Was this considered the original form of binging?
-
-I wanted to keep a list of books I have read recently, both to keep a running catalog of books read and my initial impressions and also to motivate myself to keep adding titles to the list. I read almost exclusively on Amazon Kindle Paperwhite. Special thanks to the free e-books available at the public libraries in the past cities I have lived (or have friends): Columbus, Dallas, Menlo Park, and Memphis.
-
-If you have any recommendations for books I may enjoy, please let me know!
-
-## 2019 Books Read
 
  1. *Origin* - Dan Brown. I have been a fan of Dan Brown since I read *Da Vinci Code* and *Angels and Demons* in high school. I find character Robert Langdon enjoyable to follow around, but this book wasn't his best. I did find myself curious how it would end (and it lived up to the expectation of a completely ridiculous ending). Seemed like a lot of unnecessary shots at organized religion, which I didn't really appreciate.
  2. *The Fallen* - David Baldacci. Book 4 in the Amos Decker series, following the life of ex-football player, ex-detective turned FBI consultant and his perfect recall solving high profile murders. I find the writing style enjoyable and the characters interesting. Only complaint is the forced use of football metaphors/football talk that, while accurate, doesn't come off as realistic.
@@ -29,10 +21,3 @@ If you have any recommendations for books I may enjoy, please let me know!
  12. *Barbarians at the Gate* - Bryan Burrough & John Heylar - Story of the LBO of RJR Nabisco. A very detailed background of Reynolds Tobacco and Nabisco company, their merger and eventual LBO led by then-CEO Ross Johnson. Similar to *Liar's Poker* in that it details the levels of greed ego on Wall Street in the 1980s and its impact on American businesses.
  13. *Billion Dollar Whale* - Bradley Hope & Tom Wright - Story of Malaysian businessman Jho Low who through the use of a few connections and a neverending greed was able to defraud the Malaysian people and government out of billions of dollars. This was a fascinating tale with unbelieveable details about lavishness and spending that consumed Jho Low in his pursuit of money, fame and power.
  14. *I Heard You Paint Houses (The Irishman)* - Charles Brandt - The life story of Frank "The Irishman" Sheeran, his upbringing, military service, and introduction to the mafia and the Teamsters union. Interesting insight into the disapperance of Jimmy Hoffa as well as the Kennedy assassination. I found this book much more entertaining than the Netflix movie.
-
-## Future Books
-Books that are on my radar to read in the future include:
- 1. *Midnight in Chernobyl* - Adam Higginbotham 
- 2. *The Millionaire Nextdoor* - Thomas J. Stanley & William D. Danko 
- 3. *Paddy Whacked* - T.J. English
- 4. *The Winds of Winter* - George R.R. Martin (if it is ever released)

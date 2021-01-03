@@ -26,6 +26,9 @@ So far, in 2020, I have been even better about reading, but worse about recordin
  15. [*The Immortal Life of Henrietta Lacks*](https://www.goodreads.com/book/show/6493208-the-immortal-life-of-henrietta-lacks) - Rebecca Skloot.
  16. [*Game Change*](https://www.goodreads.com/book/show/6694937-game-change) - John Heilemann and Mark Halperin.
  17. [*Cloud Atlas*](https://www.goodreads.com/book/show/49628.Cloud_Atlas) - David Mitchell.
+ 18. [*Live From New York*](https://www.goodreads.com/book/show/55095.Live_from_New_York) - Tom Shales, James Andrew Miller
+ 19. [*That Will Never Work*](https://www.goodreads.com/book/show/44428950-that-will-never-work) - Marc Randolph
+ 20. [*Pappyland: A Story of Family, Fine Bourbon, and the Things That Last*](https://www.goodreads.com/en/book/show/53232311-pappyland) - Wright Thompson
 
 ## Future Books
 Books that are on my radar to read in the future include:

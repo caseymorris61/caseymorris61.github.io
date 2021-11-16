@@ -54,7 +54,7 @@ author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/casey-profile.jpg"
   bio              : "30% done with 47 projects"
-  location         : "Memphis, TN"
+  location         : "Charlotte, NC"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

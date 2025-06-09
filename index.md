@@ -17,6 +17,13 @@ header:
 excerpt: >
   Experienced software and electrical engineer with an interest in embedded systems and web applications. RPi hobbiest and DIY IoT enthusiast. Aspiring amateur baker.<br />
 feature_row:
+  - image_path: /assets/images/beaconfound-logo.png
+    alt: "BeaconFound"
+    title: "Launching BeaconFound"
+    excerpt: "A complete lost and found for every item. Introducing my latest product, BeaconFound"
+    url: "/blog/2025/06/08/beaconfound-launch/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
   - image_path: /assets/images/photoboothresult1.jpg
     alt: "photobooth"
     title: "Wedding PhotoBooth"
@@ -45,18 +52,18 @@ feature_row:
     url: "/blog/2019/10/08/rfid-light-lock/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/ArrowsNestLogo.png
-    alt: "ArrowsNest"
-    title: "Arrows Nest Web Dev"
-    excerpt: "Volunteered at GiveCamp Memphis to create the wordpress site for local charity Arrows Nest"
-    url: "/blog/2020/02/28/givecamp-arrows-nest/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
   - image_path: /assets/images/SparkDirector_control_cropped.png
     alt: "SparkDirector"
     title: "SparkDirector"
     excerpt: "An Android app to control Orro switches via IFTTT"
     url: "/blog/2020/04/08/spark-director/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/ArrowsNestLogo.png
+    alt: "ArrowsNest"
+    title: "Arrows Nest Web Dev"
+    excerpt: "Volunteered at GiveCamp Memphis to create the wordpress site for local charity Arrows Nest"
+    url: "/blog/2020/02/28/givecamp-arrows-nest/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 ---

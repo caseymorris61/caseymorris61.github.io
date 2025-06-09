@@ -19,7 +19,7 @@ When I moved to Memphis in July 2019, one of the first things I came across was 
 
 ## Arrows Nest
 
-[Arrows Nest](https://arrowsnest.org/) is an area non-profit that serves as a home for children in need in Memphis. It is run by MK Hill, a terrific woman who has dedicated her life to serving the childern of the community. MK came to GiveCamp basically as a blank slate. She had no domain name and no website, but she needed a dedicated site so she could easily direct people who asked about her mission and were looking for a way to donate. This was an exciting challenge to experience building a wordpress site from scratch.
+Arrows Nest is an area non-profit that serves as a home for children in need in Memphis. It is run by MK Hill, a terrific woman who has dedicated her life to serving the childern of the community. MK came to GiveCamp basically as a blank slate. She had no domain name and no website, but she needed a dedicated site so she could easily direct people who asked about her mission and were looking for a way to donate. This was an exciting challenge to experience building a wordpress site from scratch.
 
 ![TheTeam](/assets/images/ArrowsNest-team.jpeg) 
 

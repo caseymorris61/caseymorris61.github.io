@@ -26,7 +26,6 @@ permalink:        /blog/:year/:month/:day/:title/
 
 # Build settings
 markdown: kramdown
-theme: "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes@4.16.6"
 
 # Plugins (previously gems:)

@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Launching BeaconFound: A Journey from Idea to Reality"
+title:  "Launching BeaconFound"
 date:   2025-06-08 16:00:00 +0000
 categories: jekyll update
 author_profile: true
@@ -19,7 +19,7 @@ The idea for BeaconFound has been brewing for about 1.5 years. Like many good id
 
 ## The Development Journey
 
-The development of BeaconFound coincided with my parental leave, which provided the perfect opportunity to dive deep into the project. During this time, I also wanted to explore and get familiar with modern AI coding tools, specifically [Lovable](https://lovable.ai) and [Cursor](https://cursor.sh). These tools proved to be game-changers in the development process.
+I had some down time on the weekends and wanted to explore and get familiar with modern AI coding tools, specifically [Lovable](https://lovable.ai) and [Cursor](https://cursor.sh). These tools proved to be game-changers in the development process.
 
 I'll admit, I was initially skeptical about AI coding tools. Like many developers, I wondered if they could truly understand the nuances of building a production-ready application. However, I came away thoroughly impressed with their capabilities. These tools provided an incredible jump-start to the development process, helping with everything from boilerplate code to complex logic implementation.
 
@@ -54,3 +54,5 @@ If you're interested in following along with BeaconFound's journey, you can:
 - Try out the service if you've lost something or found an item
 
 I'm grateful for the support and feedback from the community as we continue to grow and improve BeaconFound. Here's to making the world a little less frustrating, one found item at a time! 
+
+Note: AI assisted with this blog post.

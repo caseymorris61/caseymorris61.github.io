@@ -17,11 +17,25 @@ header:
 excerpt: >
   Experienced software and firmware engineer with an interest in multiplatform development, embedded systems, and agentic AI tools. RPi hobbiest and DIY IoT enthusiast. Aspiring amateur baker.<br />
 feature_row:
+  - image_path: /assets/images/tee-time-logo.png
+    alt: "TeeTimeCaddy"
+    title: "TeeTimeCaddy"
+    excerpt: "Never miss a perfect tee time. iOS app built with Compose Multiplatform that monitors for hard to find tee times"
+    url: "/blog/2025/08/15/teetime-caddy/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
   - image_path: /assets/images/beaconfound-logo.png
     alt: "BeaconFound"
     title: "Launching BeaconFound"
     excerpt: "A complete lost and found for every item. Introducing my latest product, BeaconFound"
     url: "/blog/2025/06/08/beaconfound-launch/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/wager-league-bets-logo.png
+    alt: "WagerLeagueBets"
+    title: "WagerLeagueBets"
+    excerpt: "Bet on sports and compare yourself to friends without wagering money. Built with Supabase and PostgreSQL functions"
+    url: "/blog/2025/05/01/wagerleaguebets/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/photoboothresult1.jpg

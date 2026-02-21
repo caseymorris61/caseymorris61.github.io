@@ -1,0 +1,32 @@
+# Jekyll build output
+_site/
+.jekyll-cache/
+.jekyll-metadata
+
+# Dependencies
+vendor/
+.bundle/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Git
+.git/
+.gitignore
+
+# Documentation
+README.md
+notes.txt
+
+# Docker files (don't need to copy these into the image)
+Dockerfile
+docker-compose.yml
+.dockerignore

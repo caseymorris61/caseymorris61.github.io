@@ -19,14 +19,14 @@ email: casey@caseytmorris.com
 description: "Casey Morris - Software Engineer Project Home"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://caseytmorris.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: realQuadsCasey
 github_username:  caseymorris61
+repository: caseymorris61/caseymorris61.github.io
 
 permalink:        /blog/:year/:month/:day/:title/
 
 # Build settings
 markdown: kramdown
-#theme: "minimal-mistakes-jekyll"
+theme: "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes@4.16.6"
 
 # Plugins (previously gems:)

@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  jekyll:
+    platform: linux/arm64
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "4000:4000"
+    volumes:
+      # Mount the project directory for live reloading
+      - .:/srv/jekyll
+      # Persist bundle cache to speed up rebuilds
+      - bundle_cache:/usr/local/bundle
+    environment:
+      - JEKYLL_ENV=development
+      - PAGES_REPO_NWO=caseymorris61/caseymorris61.github.io
+    command: bundle exec jekyll serve --host 0.0.0.0 --force_polling --livereload
+
+volumes:
+  bundle_cache:
